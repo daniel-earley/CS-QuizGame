@@ -1,0 +1,54 @@
+Game questions about basic types and expressions
+-------------------------------------------------------------------
+Question 1:
+What type of number is 75.9?
+Integer 
+Floating Point
+Decimal
+Long Number
+-------------------------------------------------------------------
+Question 2:
+How do you make a list in Python?
+With {Squiggly Brackets}
+With (Round Brackets)
+With [Square Brackets]
+With , Commas
+-------------------------------------------------------------------
+Question 4:
+What does % do after dividing?
+Gives a percentage
+Multiplies by 0.1
+Shows the decimal 
+Shows the remainder 
+-------------------------------------------------------------------
+Question 5:
+What does // do after dividing?
+Doesn't show the decimal 
+Shows the whole number
+Shows the decimal 
+Shows the remainder 
+-------------------------------------------------------------------
+Question 8:
+What is a string?
+A collection of characters
+A collection of letters
+A collection of numbers
+A collection of words
+-------------------------------------------------------------------
+Question 3:
+Can expressions be math equations?
+True
+False
+-------------------------------------------------------------------
+Question 6:
+Which operator is a comparison?
+=
+==
+-------------------------------------------------------------------
+Question 7:
+Do integers have decimals?
+Yes
+No
+-------------------------------------------------------------------
+
+
