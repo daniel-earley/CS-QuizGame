@@ -10,6 +10,6 @@ Fire Sprites: Greiga Master (The Spriters Resource - https://www.spriters-resour
 Dialogue Box: Devy (The Spriters Resource - https://www.spriters-resource.com/pc_computer/freedomplanet/sheet/124550/)
 Background Image: (Capcom vs SNK)
 
-p.s. I know a lot of the code is really messy and I apologize to those who bothered to read the code. I'm going to make an excuse and that excuse is that this .
+p.s. I know a lot of the code is really messy and I apologize to those who bothered to read the code. I'm going to make an excuse and that excuse is that this 
 was the first project in python that I had worked on since January and I made this in late July. As well as I had only just learned the basics of pygame from 
 many youtube tutorials. Thanks for reading and again, I'm sorry for the messy code!
